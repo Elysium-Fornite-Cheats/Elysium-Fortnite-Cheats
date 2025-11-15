@@ -1,0 +1,383 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (Elysium-.F8CD68DB\x64\Debug\) contains files shared from another project (Elysium-LoL-Cheat.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(90,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(90,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(90,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(119,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(120,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(121,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(122,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(123,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(124,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(125,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(126,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(127,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(128,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(129,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(130,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(131,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(132,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(133,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(134,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(135,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(136,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(137,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(138,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(139,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(140,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(141,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(142,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(177,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(178,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(179,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(199,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(200,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(201,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Main\main.h(213,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(131,16): error C2039: 'invoke_result': is not a member of 'std'
+  (compiling source file 'Main/main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.44.35207\include\sstream(19,1):
+      see declaration of 'std'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(131,29): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(131,29): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(131,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(131,29): error C2059: syntax error: '<'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(131,46): error C2039: 'type': is not a member of '`global namespace''
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(134,2): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(134,2): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(189,51): error C2760: syntax error: '<' was unexpected here; expected ';'
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(180,32):
+      This diagnostic occurred in the compiler generated function 'decltype(auto) CallSpoofer::SafeCall<Func>::operator ()(Args ...)'
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(189,51):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(170,8):
+          while compiling class template 'CallSpoofer::SafeCall'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(189,56): error C2760: syntax error: ',' was unexpected here; expected ';'
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(180,32):
+      This diagnostic occurred in the compiler generated function 'decltype(auto) CallSpoofer::SafeCall<Func>::operator ()(Args ...)'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(189,65): error C3329: syntax error: expected 'identifier' not '>'
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(180,32):
+      This diagnostic occurred in the compiler generated function 'decltype(auto) CallSpoofer::SafeCall<Func>::operator ()(Args ...)'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(190,50): error C2065: 'ShellCodeGenerator': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(180,32):
+      This diagnostic occurred in the compiler generated function 'decltype(auto) CallSpoofer::SafeCall<Func>::operator ()(Args ...)'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(190,73): error C3878: syntax error: unexpected token '*' following 'simple-type-specifier'
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(190,73):
+      missing one of: '(' '{' ?
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(180,32):
+      This diagnostic occurred in the compiler generated function 'decltype(auto) CallSpoofer::SafeCall<Func>::operator ()(Args ...)'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(190,74): error C2760: syntax error: ',' was unexpected here; expected 'expression'
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(180,32):
+      This diagnostic occurred in the compiler generated function 'decltype(auto) CallSpoofer::SafeCall<Func>::operator ()(Args ...)'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(190,74): error C2760: syntax error: ',' was unexpected here; expected ';'
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(180,32):
+      This diagnostic occurred in the compiler generated function 'decltype(auto) CallSpoofer::SafeCall<Func>::operator ()(Args ...)'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(190,74): error C3878: syntax error: unexpected token ',' following 'expression-statement'
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(180,32):
+      This diagnostic occurred in the compiler generated function 'decltype(auto) CallSpoofer::SafeCall<Func>::operator ()(Args ...)'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(190,83): error C3329: syntax error: expected 'identifier' not '>'
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(180,32):
+      This diagnostic occurred in the compiler generated function 'decltype(auto) CallSpoofer::SafeCall<Func>::operator ()(Args ...)'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(190,84): error C3878: syntax error: unexpected token ')' following 'simple-declaration'
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(180,32):
+      This diagnostic occurred in the compiler generated function 'decltype(auto) CallSpoofer::SafeCall<Func>::operator ()(Args ...)'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(191,86): error C2065: 'ShellCodeGenerator': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(180,32):
+      This diagnostic occurred in the compiler generated function 'decltype(auto) CallSpoofer::SafeCall<Func>::operator ()(Args ...)'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(191,109): error C3878: syntax error: unexpected token '*' following 'simple-type-specifier'
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(191,109):
+      missing one of: '(' '{' ?
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(180,32):
+      This diagnostic occurred in the compiler generated function 'decltype(auto) CallSpoofer::SafeCall<Func>::operator ()(Args ...)'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(191,109): error C2760: syntax error: '*' was unexpected here; expected ')'
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(180,32):
+      This diagnostic occurred in the compiler generated function 'decltype(auto) CallSpoofer::SafeCall<Func>::operator ()(Args ...)'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(191,110): error C3878: syntax error: unexpected token ',' following 'simple-declaration'
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(180,32):
+      This diagnostic occurred in the compiler generated function 'decltype(auto) CallSpoofer::SafeCall<Func>::operator ()(Args ...)'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(191,121): error C3329: syntax error: expected 'identifier' not '>'
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(180,32):
+      This diagnostic occurred in the compiler generated function 'decltype(auto) CallSpoofer::SafeCall<Func>::operator ()(Args ...)'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(191,122): error C3878: syntax error: unexpected token ')' following 'simple-declaration'
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\AntiDebug\CallStack-Spoofer.h(180,32):
+      This diagnostic occurred in the compiler generated function 'decltype(auto) CallSpoofer::SafeCall<Func>::operator ()(Args ...)'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(30,3): error C2061: syntax error: identifier '_AddressOfReturnAddress'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(31,23): error C2061: syntax error: identifier 'out'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(31,3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(31,3): warning C4183: 'RtlSecureZeroMemory': missing return type; assumed to be a member function returning 'int'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(32,20): error C2059: syntax error: 'reinterpret_cast'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(32,3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(32,3): error C2365: '_driver::nt_user_function': redefinition; previous definition was 'data member'
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(10,17):
+      see declaration of '_driver::nt_user_function'
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(32,3): warning C4183: 'nt_user_function': missing return type; assumed to be a member function returning 'int'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(34,1): error C2059: syntax error: 'public'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(34,7): error C2059: syntax error: ':'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(59,3): error C2065: 'nt_user_function': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(59,39): error C2061: syntax error: identifier 'NtUserFunction'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(60,8): error C2065: 'nt_user_function': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(62,4): error C2065: 'nt_user_function': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(62,40): error C2061: syntax error: identifier 'NtUserFunction'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(63,9): error C2065: 'nt_user_function': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(70,3): error C2065: 'DRIVER_REQUEST': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(70,18): error C2146: syntax error: missing ';' before identifier 'out'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(70,18): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(71,3): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(71,14): error C2065: 'BASE': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(72,3): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(72,21): error C2065: 'process_id': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(73,17): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(73,3): error C3861: 'send_request': identifier not found
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(74,21): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(79,3): error C2065: 'DRIVER_REQUEST': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(79,18): error C2146: syntax error: missing ';' before identifier 'out'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(79,18): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(80,3): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(80,14): error C2065: 'WRITE': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(81,3): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(81,21): error C2065: 'process_id': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(82,3): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(83,3): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(84,3): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(85,17): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(85,3): error C3861: 'send_request': identifier not found
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(90,3): error C2065: 'DRIVER_REQUEST': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(90,18): error C2146: syntax error: missing ';' before identifier 'out'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(90,18): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(91,3): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(91,14): error C2065: 'READ': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(92,3): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(92,21): error C2065: 'process_id': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(93,3): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(94,3): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(95,3): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(96,17): error C2065: 'out': undeclared identifier
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(96,3): error C3861: 'send_request': identifier not found
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(110,1): error C2059: syntax error: '}'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(110,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file 'Main/main.cpp')
+  
+C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(10,17): error C1907: unable to recover from previous error(s); stopping compilation
+  (compiling source file 'Main/main.cpp')
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(33,2):
+      This diagnostic occurred in the compiler generated function '_driver::_driver(void)'
+      C:\Users\Administrator\Desktop\Elysium-LoL-Cheat\Comms\driver.hpp(111,9):
+      see reference to function '_driver::_driver(void)'
+  
