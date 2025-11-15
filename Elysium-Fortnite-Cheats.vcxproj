@@ -23,7 +23,7 @@
     <ProjectGuid>{F8CD68DB-5BF7-4921-AB55-5550284140A9}</ProjectGuid>
     <RootNamespace>wdamonitor</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Elysium-LoL-Cheat</ProjectName>
+    <ProjectName>Elysium-Fortnite-Cheats</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
